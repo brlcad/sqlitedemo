@@ -1,6 +1,12 @@
 # sqlitedemo
 Basic demonstration interacting with SQLite via Qt
 
+    morrison@agua sqlitedemo % sh compile.sh  
+    morrison@agua sqlitedemo % ./sqlitedemo
+    sqlite is available
+    ERROR: /all.g/bar.r null combination
+    morrison@agua sqlitedemo % ./sqlitedemo_guified
+
 <img width="744" alt="sqlitedemo_guified" src="https://user-images.githubusercontent.com/940391/192099780-ea0eb67f-7903-4bdd-8114-954a63ac11a0.png">
 
 A minimal build script with hard-coded paths is provided showing the gist for how to compile.  Others will need to adapt for their local build environment. 
